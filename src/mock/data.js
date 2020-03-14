@@ -2,17 +2,17 @@ import uuidv1 from 'uuid/v1';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Austin Denny | Developer',
+  lang: 'en',
+  description: 'Welcome to my website',
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Hi, my name is',
+  name: 'Austin Denny',
+  subtitle: "I'm a web developer.",
+  cta: 'Know more',
 };
 
 // ABOUT DATA
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'austinbdenny@gmail.com',
 };
 
 // FOOTER DATA
@@ -88,7 +88,6 @@ export const footerData = {
   ],
 };
 
-// Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false,
 };
