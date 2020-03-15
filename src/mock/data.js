@@ -10,7 +10,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Hi, my name is',
-  name: 'Austin Denny',
+  name: 'Austin Denny.',
   subtitle: "I'm a web developer.",
   cta: 'Know more',
 };
@@ -46,12 +46,23 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'homepage.png',
+    title: 'Book•Smart',
+    info:
+      'Book Smart is a front-end API-driven search engine for finding books and viewing both historical and current bestseller data from The New York Times.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'http://jayesolutions.net.s3-website.us-east-2.amazonaws.com/index.html',
+    repo: 'https://github.com/abdenny/Book_Smart', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'blackjack.png',
+    title: 'Blackjack',
+    info:
+      'Book Smart is a front-end API-driven search engine for finding books and viewing both historical and current bestseller data from The New York Times.',
+    info2: 'lorem ipsum dolor bkackjack',
+    url: 'https://abdenny.github.io/Blackjack/',
+    repo: 'https://github.com/abdenny/Blackjack', // if no repo, the button will not show up
   },
 ];
 
@@ -67,23 +78,13 @@ export const footerData = {
   networks: [
     {
       id: uuidv1(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: uuidv1(),
-      name: 'codepen',
-      url: '',
+      name: 'github',
+      url: 'https://github.com/abdenny',
     },
     {
       id: uuidv1(),
       name: 'linkedin',
-      url: '',
-    },
-    {
-      id: uuidv1(),
-      name: 'github',
-      url: '',
+      url: 'https://linkedin.com/in/austin-denny-0b77a8197',
     },
   ],
 };
