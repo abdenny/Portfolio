@@ -19,13 +19,13 @@ export const heroData = {
 export const aboutData = {
   img: 'techs.png',
   paragraphOne:
-    'Recent Grad. Passionate about all things science & tech. My background in biology has taught me many skills necessary of a developer. Working as a researcher and supplemental instructor, I learned the value of punctuality, communication, and the necessity of building meaningful rapport with coworkers. I have learned how to learn, and in turn, convey intricate ideas succinctly. My responsibilities often required the comprehension of complex materials under short time constraints.',
+    'Recent Grad. Passionate about all things science & tech. Working as a researcher and supplemental instructor, I learned the value of punctuality, communication, and the necessity of building meaningful rapport with coworkers. I have learned how to learn, and in turn, convey intricate ideas succinctly. My responsibilities often required the comprehension of complex materials under short time constraints.',
   paragraphTwo:
     'At the start of my senior year, I began considering how the internet is changing the way we do science. The advantages we have now are incredible: instant collaboration, on-mass & automated data collection, the IoT, distributed networks for computational biology, and so much more. These ideas fascinated me, inspiring me to learn more about how web technologies worked. When I started learning the basics, I was hooked. What I enjoy most about software development is how it rewards the application of problem-solving and scientific thinking, irrespective of material condtions.',
   paragraphThree:
     "In fall 2019, I committed fully to pursuing web development. I attended a 16-week immersive full-stack coding boot camp at DigitalCrafts, in the PERN tech stack. I'm passionate about learning new technologies, broadening my knowledge of the tech industry, and making meaningful contributions to real-world products.",
 
-  resume: 'https://resumepdfad.s3.us-east-2.amazonaws.com/AustinDennyAtsResume.pdf', // if no resume, the button will not show up
+  resume: 'https://resumepdfad.s3.us-east-2.amazonaws.com/AustinDennyAtsResume2020.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
