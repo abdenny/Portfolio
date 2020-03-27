@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'At the start of my senior year, I began considering how the internet is changing the way we do science. The advantages we have now are incredible: instant collaboration, on-mass & automated data collection, the IoT, distributed networks for computational biology, and so much more. These ideas fascinated me, inspiring me to learn more about how web technologies worked. When I started learning the basics, I was hooked. What I enjoy most about software development is how it rewards the application of problem-solving and scientific thinking, irrespective of material condtions.',
   paragraphThree:
-    "In fall 2019, I committed fully to pursuing web development. I attended a 16-week immersive full-stack coding boot camp at DigitalCrafts, in the PERN tech stack. I'm passionate about learning new technologies, broadening my knowledge of the tech industry, and making meaningful contributions to real-world products.",
+    "In fall 2019, I committed fully to pursuing web development. I attended a 16-week immersive full-stack coding boot camp at DigitalCrafts, in the PERN tech stack. I'm passionate about learning new technologies, broadening my knowledge of the tech industry, and making meaningful contributions to projects.",
 
   resume: 'https://resumepdfad.s3.us-east-2.amazonaws.com/AustinDennyAtsResume2020.pdf', // if no resume, the button will not show up
 };
@@ -46,7 +46,7 @@ export const projectsData = [
     info:
       'Tribuo is a full-stack web app for company-wide task management that tracks employees, departments, and tasks in a relational database.',
     info2: '',
-    url: '',
+    url: 'http://ec2-18-222-118-237.us-east-2.compute.amazonaws.com',
     repo: 'https://github.com/abdenny/Tribuo', // if no repo, the button will not show up
   },
   {
