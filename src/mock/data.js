@@ -19,13 +19,13 @@ export const heroData = {
 export const aboutData = {
   img: 'techs.png',
   paragraphOne:
-    'Recent Grad. Passionate about learning, teaching, all things science & tech. My background in Biology has taught me many necessary skills of a successful developer. Working as a researcher and supplemental instructor, I learned the value of punctuality, communication, and the necessity of building meaningful rapport with coworkers. I have experience learning fast, and in turn, conveying complex ideas simply. My responsibilities often required digging deep into rigorous material under short time constraints.',
+    'Recent Grad. Passionate about all things science & tech. My background in Biology has taught me many necessary skills of a successful developer. Working as a researcher and supplemental instructor, I learned the value of punctuality, communication, and the necessity of building meaningful rapport with coworkers. I have experience learning fast, and in turn, conveying complex ideas simply. My responsibilities often required digging deep into rigorous material under short time constraints.',
   paragraphTwo:
     'This experience opened my eyes to how outdated much of academia is becoming. I found myself using online resources, often with better outcomes. This brought about my budding interest in web development. The wide audience you can reach through the internet, irrespective of time and location, excited me. When I began learning about these technologies, I discovered a love and aptitude for them.',
   paragraphThree:
     "In fall 2019, I committed fully to pursuing web development. I attended a 16-week immersive full-stack coding boot camp at DigitalCrafts, in the PERN tech stack. I'm passionate about learning new technologies, broadening my knowledge of the tech industry, and making meaningful contributions to real-world products.",
 
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://resumepdfad.s3.us-east-2.amazonaws.com/AustinDennyAtsResume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -44,7 +44,7 @@ export const projectsData = [
     img: 'tribuo.png',
     title: 'Tribuo',
     info:
-      'Tribuo is a full stack web app for company-wide task management that tracks employees, departments, and tasks in a relational database.',
+      'Tribuo is a full-stack web app for company-wide task management that tracks employees, departments, and tasks in a relational database.',
     info2: '',
     url: '',
     repo: 'https://github.com/abdenny/Tribuo', // if no repo, the button will not show up
@@ -54,7 +54,7 @@ export const projectsData = [
     img: 'homepage.png',
     title: 'Book•Smart',
     info:
-      'Book Smart is a front-end API-driven search engine for finding books and viewing both historical and current bestseller data from The New York Times.',
+      'Book•Smart is a front-end API-driven search engine for finding books and viewing both historical and current bestseller data from The New York Times.',
     info2: '',
     url: 'http://jayesolutions.net.s3-website.us-east-2.amazonaws.com/index.html',
     repo: 'https://github.com/abdenny/Book_Smart', // if no repo, the button will not show up
@@ -64,8 +64,8 @@ export const projectsData = [
     img: 'blackjack.png',
     title: 'Blackjack',
     info:
-      'Book Smart is a front-end API-driven search engine for finding books and viewing both historical and current bestseller data from The New York Times.',
-    info2: 'lorem ipsum dolor bkackjack',
+      'Blackjack is a front-end app that allows users to play blackjack against the dealer, complete with full game logic.',
+    info2: '',
     url: 'https://abdenny.github.io/Blackjack/',
     repo: 'https://github.com/abdenny/Blackjack', // if no repo, the button will not show up
   },
