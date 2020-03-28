@@ -22,7 +22,6 @@ export const aboutData = {
     'Recent Grad. Lover of all things science & tech. Passionate about responsive web design and minimalist single-page applications. As a former researcher, what I enjoy most about software development is how it rewards problem-solving and the application of scientific thinking, irrespective of material condtions.',
   paragraphTwo:
     "I'm driven to learn new technologies, broaden my knowledge of the tech industry, and make meaningful contributions to projects. Feel free to reach out! I'm open to exploring new opportunities that will challenge my current skill set, and offer long term growth potential.",
-  paragraphThree: '',
 
   resume: 'https://resumepdfad.s3.us-east-2.amazonaws.com/AustinDennyAtsResume2020.pdf', // if no resume, the button will not show up
 };
