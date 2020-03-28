@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'techs.png',
   paragraphOne:
-    'Recent Grad. Lover of all things science & tech. Passionate about responsive web design and minimalist single-page applications. As a former researcher, what I enjoy most about software development is how it rewards problem-solving and the application of scientific thinking, irrespective of material condtions.',
+    'Recent Grad. Lover of all things science & tech. Passionate about responsive web design and minimalist single-page applications. As a former researcher, what I enjoy most about software development is how it rewards problem-solving and the application of scientific thinking, irrespective of material conditions.',
   paragraphTwo:
     "I'm driven to learn new technologies, broaden my knowledge of the tech industry, and make meaningful contributions to projects. Feel free to reach out! I'm open to exploring new opportunities that will challenge my current skill set, and offer long term growth potential.",
 
